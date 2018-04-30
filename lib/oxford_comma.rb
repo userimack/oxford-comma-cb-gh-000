@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if array.length== 1
+  if array.length == 1
     array.first 
   if array.length == 2 
     "#{array.first} and #{array.last}"
